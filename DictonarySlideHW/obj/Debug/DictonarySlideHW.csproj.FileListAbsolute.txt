@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DictonarySlideHW\DictonarySlideHW\bin\Debug\DictonarySlideHW.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DictonarySlideHW\DictonarySlideHW\bin\Debug\DictonarySlideHW.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DictonarySlideHW\DictonarySlideHW\bin\Debug\DictonarySlideHW.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DictonarySlideHW\DictonarySlideHW\obj\Debug\DictonarySlideHW.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DictonarySlideHW\DictonarySlideHW\obj\Debug\DictonarySlideHW.pdb
